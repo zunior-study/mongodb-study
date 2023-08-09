@@ -7,6 +7,7 @@
 + [김민수](https://github.com/minsoozz)
 + [김의빈](https://github.com/JoeCP17)
 + [이연재](https://github.com/yyy96)
++ [민율](https://github.com/minyul)
 
 ### 진행안
 + 주차별 유동 스터디 방식
