@@ -1,4 +1,4 @@
-# 📚 mongoDB 스터디
+# 📚 MongoDB 스터디
 
 ### 모티브
 + **자유**, **함께** 그리고 **완주**
@@ -20,6 +20,7 @@
 |---|---|---|
 |Week 01|사전 모임| - |
 |Week 02|RDB, NoSQL 차이점| <a href="https://github.com/zunior-study/mongodb-study/blob/main/%EA%B9%80%EB%AF%BC%EC%88%98/2%EC%A3%BC%EC%B0%A8.md">[김민수]</a> <a href="https://github.com/zunior-study/mongodb-study/blob/main/%EC%9D%B4%EC%97%B0%EC%9E%AC/2%EC%A3%BC%EC%B0%A8.md">[이연재]</a>|
+|Week 03|MongoDB 인덱스 특징| - |
 <br>
 
 ## 질문 목록
